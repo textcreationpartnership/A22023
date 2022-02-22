@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for preuention of future abuses in purueyance</title>
+            <title>Proclamations. 1606-04-23</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1606</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22023</idno>
+            <idno type="STC">STC 8392</idno>
+            <idno type="STC">ESTC S115721</idno>
+            <idno type="EEBO-CITATION">99850939</idno>
+            <idno type="PROQUEST">99850939</idno>
+            <idno type="VID">16181</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22023)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 16181)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1629:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for preuention of future abuses in purueyance</title>
+                  <title>Proclamations. 1606-04-23</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>3 leaves   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1606]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Purveyance --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:16181:1" rendition="simple:additions"/>
+            <head>
+               <g ref="char:leaf">❧</g> By the King. ¶ A Proclamation for preuention of future abuſes in Purueyance.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">S</seg>Vch is the zeale and inward affection which wee</hi> haue found in all ſorts of our louing and loyall Subiects of this our King<g ref="char:EOLhyphen"/>dome, as we are content to acknowledge, that (beſides the Chriſtian care which all Kings are bound by the Law of God and nature to take ouer all their People) our owne ſence and apprehenſion of their complaints, doeth dayly increaſe with the feeling we haue of their honeſt merits. In which reſpect, hauing taken ſome more particular paines in the examination of di<g ref="char:EOLhyphen"/>uers circumſtances, then is common to many Princes; wee did not onely commaund all our Officers to be very diligent to try out and puniſh the offences of Purueyors with all ſeueritie, but to fall into ſerious conſidera<g ref="char:EOLhyphen"/>tion, how all occaſion may be taken away hereafter, whereby thoſe inferiour Miniſters, which are vſed therein, may make themſelues (vnder colour of our Prerogatiue Royall) the inſtruments of cor<g ref="char:EOLhyphen"/>ruption and rapine: A matter moſt odious to our owne nature, Who haue alwayes more deſire to giue then to receiue from any our Subiects, except it be where neceſſitie inforceth vs thereunto, euen for the ſupport and preſeruation of that ſtate and dignitie wherein Almighty God hath placed vs. For better aſſurance whereof, We haue thought it very conuenient at this time, to take ſome occaſion in this maner to expreſſe the fruits of our care and conſideration concerning this particular point of Purueyances.</p>
+            <p>FIrſt, when wee were informed that ſome inferior miniſters had preſumed to goe ſo farre beyond their Commiſſion, as they haue aduentured not onely to take Timber trees growing (which be<g ref="char:EOLhyphen"/>ing parcel of our Subiects inheritance were neuer intended by vs to be taken) without the good will and full contentment of the Owners, but haue accuſtomed alſo to take vp farre greater quanti<g ref="char:EOLhyphen"/>ties of Prouiſions for our Houſe and Stable, then euer came or were needfull for our vſe (as moſt eſpe<g ref="char:EOLhyphen"/>cially in Wood, Coale, Hay and Carriage vpon our Progreſſe iourneyes or remoues:) Although we haue no cauſe to doubt, but that our Officers of our Greenecloth haue bene and will be euer moſt ready to ſearch out and puniſh all ſuch offences vpon iuſt complaints; Yet wee did not leaue the pur<g ref="char:EOLhyphen"/>ſuit &amp; triall thereof to them onely, but did particularly direct our Attorney generall to informe againſt them on our behalfe in our Court of <hi>Starre-chamber,</hi> where ſome of them vpon their Confeſſion, haue already receiued (by cenſure of that Court) condigne puniſhment by Fine, Impriſonment, Pillorie and looſing of their eares, And ſome others ſeeking to ſaue themſelues by denying that wherewith they were charged do ſtil remaine vnder examination to receiue the like puniſhment, vpon due proofe thereof to be made againſt them. By which example wee perſwade our ſelues, that all honeſt men will reſt ſo well aſſured of our good intention to reforme abuſes (euen to their greateſt ſatiſfaction when there is iuſt occaſion) as they will carefully and willingly continue their obedience and confor<g ref="char:EOLhyphen"/>mitie to thoſe courſes for furniſhing ſuch prouiſions as are neceſſary for vs which were taken by the conſent of moſt of the principall Gentlemen, and good Patriots in ſeuerall Counties, And whereof a<g ref="char:EOLhyphen"/>boue ſixteene Shires haue had continuance by the ſpace of forty yeeres, Eſpecially conſidering how many good, and wiſe Princes of this Realme, that haue gone before vs, where ſuch agreements haue not bene made, haue held themſelues to their Right of Purueyance, which is one of the moſt ancient flowers of the Crowne in our Progenitors, and muſt deſcend to our Poſteritie, whom God we hope) both hath, and will ſo farre enable with his bleſſings, and graces, as they ſhall prooue themſelues no leſſe able, nor worthy then any others, to enioy and preſerue the right, of a iuſt and lawful Monarchie. Wherein, becauſe all wiſe men know ſufficiently, that whereſoeuer there muſt bee a truſt in Vulgar perſons, it is not poſſible to keepe their actions from errors, &amp; abuſes; We haue thought it fit for a fur<g ref="char:EOLhyphen"/>ther demo<g ref="char:cmbAbbrStroke">̄</g>ſtration of our great care to preuent the ſame, to publiſh that which followeth, as wel to ter<g ref="char:EOLhyphen"/>rifie the euil, as to comfort the well affected, whoſe iuſt griefe ſhall euer lye as neere vs, as our owne.</p>
+            <p>BE it therefore knowen hereby, that wee doe giue expreſſe charge and commandement, that none of our Purueyors, nor other of our Officers or miniſters whatſoeuer, that now are, or hereafter ſhall be, or any of them, or any of their Deputies or Seruants, ſhall take for vs, or in our name, to or for any vſe whatſoeuer, any Timber trees of any our Subiects, growing in any place, or places whatſoeuer, without the expreſſe conſent, and agreement of the owner thereunto had and obtained. Of which particular abuſes wee cannot conceale our miſlike, both in reſpect of the iniury done thereby to that laudable policie of the Realme for maintayning of Timber, and alſo in the particular feeling we haue in our owne affections how grieuous it is for any man to behold the fruits, &amp; honeſt pleaſures of his owne Labors or his Anceſtors, defaced &amp; ſpoiled by the lewd &amp; rauenous malice of baſe companions.</p>
+            <pb facs="tcp:16181:2"/>
+            <p>SEcondly, becauſe we haue conſidered that our Subiects may be ſometime ouer burthened (againſt the meaning of our principal Officers) by the vnreaſonable taking of Wood, Coale, Hay, Oates and ſuch like prouiſions in time of Progreſſe: We do expreſly charge and command all our Officers, mini<g ref="char:EOLhyphen"/>ſters, or any of their Deputies &amp; ſeruants, to forbeare to take either Wood, Coale, Hay, or Oates in lar<g ref="char:EOLhyphen"/>ger proportion, then ſhalbe found neceſſary to be expended for the ſeruice of our Houſe and Stable.</p>
+            <p>ANd further our pleaſure is, that none of our Purueiors or takers of cariage, or carttakers (for the time being) nor any of their deputies or ſeruants, nor any other of our Officers or Miniſters what<g ref="char:EOLhyphen"/>ſoeuer, ſhall vpo<g ref="char:cmbAbbrStroke">̄</g> our iourneis, remoues, or progreſſe, take vp any carts or cariages for any Nobleman, Gentleman, Artizan, or others whatſoeuer, not being our ſeruants in ordinary, &amp; neceſſarily for that time to attend vs. In which poynt that it may the better appeare, how ſparingly it ſhal be vſed, wee doe expreſly command, that there bee no more cariages taken, then ſhall be particularly compriſed in a liſt, which ſhalbe made for that purpoſe, and ſigned with the hands of the principall Officers of our Chamber, Houſholde, and Stable: And for the reſt, whatſoeuer they bee, either Noblemen, Gentle<g ref="char:EOLhyphen"/>men, Artizans, or others that doe follow vs, our expreſſe pleaſure and commandement is, That they from henceforth at all times hereafter prouide their cariages (ſuch as they ſhall like to haue or vſe) at their owne proper coſtes and charges, and by their owne meanes, without vſing in any fort either our name or authoritie, or any of our Purueiors, or any of their deputies or ſeruants, for, or about the ſame.</p>
+            <p>ANd wee do withall hereby ſignifie vnto all and euery our Purueiors, their deputies and ſeruants, and all others that may receiue any order from them touching purueyance of carriages, or the making of any the prouiſions aforeſaide for any our progreſſe, iourneis, or remoues, That if in any poynt therein they doe carry themſelues contrary to this our expreſſe prohibition in that behalfe made, that for ſuch their offences they ſhal be proceeded againſt in the ſeuereſt maner, and receiue ſuch exemplary puniſhment, as by our Lawes may be inflicted vpon them.</p>
+            <p>ANd we do ſtraightly charge our principall Officers of our Houſhold and Stable, and other Offi<g ref="char:EOLhyphen"/>cers of our Greenecloth, vpon due information, and proofe made before them of any our Mini<g ref="char:EOLhyphen"/>ſters offending in any the kindes before ſpecified, to deliuer the ſayd offenders into the hands of ſome of the Iuſtices of Peace of the ſayde Shire or Countie, where the ſayd offence, or offences were committed, to the end they may proceede againſt them in as ſeuere maner, as the Lawe and Iu<g ref="char:EOLhyphen"/>ſtice of our Realme requireth, or alloweth. And if any of the offences aforeſaid ſhall ſeeme fitter to bee proceeded withall in the Court of Starre chamber, then in the Counties where the offences ſhalbe committed; Then wee doe ſtraightly charge and commaund our Atturney generall for the time being, that if information be giuen vnto him by any our Iuſtices of Peace of the miſdemeanor of a<g ref="char:EOLhyphen"/>ny perſon ſo deliuered, to ſee the ſayd offender proſecuted, and duely puniſhed. Prouided alwayes, that our meaning is not hereby to prohibite any our Iuſtices of Peace, vpon iuſt complaints of any of our louing Subiects, to examine, to binde ouer to the Seſſions, or (if neede require it) to commit any ſuch offenders in their ſeuerall Shires: And then, certifying the cauſe of ſuch commitments to the Officers of our Greenecloth, to proceed (vpon good proofes) in further puniſhment of the faults, according to the Lawes of the Realme.</p>
+            <p>ANd wee doe in like maner expreſly prohibite and forbid all perſons, after the end of this Seſſion of Parliament, to make any purueyance without Commiſſion for euery ſeuerall Shire, contay<g ref="char:EOLhyphen"/>ning the kindes, and quantities (ſo neere as may bee) which they are to puruey within ſuch a Shire. And that to the ſame Commiſſions blanke Scedules be annexed, which cannot be taken off, wherein they ſhall truely, in preſence of ſuch High Conſtable, or Conſtables, pettie Conſtable, or Conſtables, Headborough, or Headboroughes, as ſhall (by precept to him or them directed) be priuie to the deliue<g ref="char:EOLhyphen"/>rie of any the prouiſions in the ſaid Commiſſion ſpecified, enter their takings preſently, whereunto the ſaid Conſtable, &amp;c. ſhall ſubſcribe their names or ſigne Manuell. And that the owners or ſellers, if they will, may preſently likewiſe ſubſcribe their names or marks to the ſame. And that when they haue finiſhed their takings in any ſuch Shire, That then they deliuer a Duplicate of the ſaid Scedule containing their takings, and a true Copy of their proportions appointed, to one of the next Iuſtices of Peace, to the end it may appeare that their takings exceed not their Warrants.</p>
+            <p>FVrthermore, where We haue bene informed, that diuers complaints haue bene made of ſome hard courſe taken by our Officers of our Greenecloth towards diuers of our louing Subiects, at ſuch times as they haue informed againſt Purueiors and ſuch like Officers vpon abuſes; Although Wee haue no doubt, that any of our Officers will in any ſuch caſe ſo much forget their reſpect to Iuſtice or Duety to Vs (the principall Officers being Counſellers of State, and the reſt Knights and Gentle<g ref="char:EOLhyphen"/>men of good qualitie and diſcretion) yet to the intent our people may be ſatiſfied that We haue no pur<g ref="char:EOLhyphen"/>poſe to ſuffer any interruption of Iuſtice, vnder pretext of our authority; Wee doe hereby declare it, and ſo is our will and pleaſure, that in caſe any of our louing ſubiects ſhalbe impriſoned for ſo doing, that the Iudges of our High Court at Weſtminſter ſhall award a <hi>Habeas corpus</hi> for their reliefe, ac<g ref="char:EOLhyphen"/>cording to our Lawes.</p>
+            <pb facs="tcp:16181:3"/>
+            <p>ANd for the better ſatiſfaction of our people, of whoſe loyaltie and inward affections we ſtand ſo much aſſured, as they will not repine at any prouiſion deliuered by Vertue of our Commiſſion, if it may appeare to come to our vſe, our wil and pleaſure therefore is, that our Iuſtices of Peace in euery ſeuerall Countie or Country where any prouiſion ſhalbe taken by vertue of our Commiſſions, ſhall at their quarter Seſſions take particular reckning of the high &amp; pettie Conſtables of all warrants com<g ref="char:EOLhyphen"/>ming vnto them from any miniſter of ours, together with what prouiſions or carriages they haue deliuered vnto them by vertue of our Commiſſion; the true and iuſt Certificate whereof they ſhall halfe yearely at the leaſt, vnder the hands and Seales of ſome of them certifie to our Treaſurer and Comptrowler, or other our officers of Greenecloth, who preſently by the parcels and accompts of our houſe ſhall duely examine the receit from ſuch Purueiors. And if it be found by Certificate of the ſayd Iuſtices or otherwiſe, that they haue taken more then they haue deliuered for our vſe or ex<g ref="char:EOLhyphen"/>pence, vnleſſe it ſhall appeare to haue had iuſt cauſe of miſcarrying by the way: then we require our officers of Houſhold, vpon paine of our diſpleaſure, without delay to ſend the party ſo offending into the Countie where ſuch offence or offences ſhall be committed, there to receiue puniſhment of life and member, as the good and ancient lawes of our Realme haue formerly ordeined and appointed.</p>
+            <p>FVrthermore, as we did in our returne out of Wiltſhire, being our firſt progreſſe, vpon the exami<g ref="char:EOLhyphen"/>nation of ſome abuſes, draw downe the number of our carriages to ſuch a proportion as two full third parts was diminiſhed of the numbers before time vſed: euen ſo at this time, becauſe we conceiue that the matter of carriages is the greateſt grieuance, And that it is oftentimes no leſſe trouble to our people to come emptie with their carts to Court to take in carriages, then to conuey them; Wee doe therefore hereby alſo commaund all perſons vſed in the ſeruice of Carttaking for our remoues, to for<g ref="char:EOLhyphen"/>beare to take either more carriages then are of neceſſitie to be vſed, or to warne or charge carts in any Citie, Towne, Burrow, or hundred aboue fourteene miles at any time diſtant from the place where they are to receiue their loding, vpon paine of looſing their Office and Seruice, and ſuch further pu<g ref="char:EOLhyphen"/>niſhment as is to be inflicted vpon them for their contempts. And we doe likewiſe require all high Conſtables, vpon receipt of any warrants from any our carttakers, their ſeruants or deputies for war<g ref="char:EOLhyphen"/>ning of Carts within their hundreths, that they preſume not to warne any but in ſuch part of the hun<g ref="char:EOLhyphen"/>dreth as ſhall be within compaſſe of the fourteene miles aboue ſpecified, vpon paine of the penalties before expreſſed; vnleſſe it ſhall appeare by the Iudgement and order of the Iuſtices of that County, or ſixe of them at the leaſt, that it ſhall be more for the eaſe of the countrey to inlarge the extent of the number of miles aforeſayd.</p>
+            <p>FVrther, wee charge and commaund the Purueiors of our Woodyard and Scullarie, vpon taking of any proportion of Wood or Coale for our prouiſion, not to medle or aſſume authority vnto them<g ref="char:EOLhyphen"/>ſelues for warning any Carts for Carriage of the ſame, but by the direction of two at the leaſt of our Iuſtices of Peace next adioyning of that County, where ſuch Wood, or Coales ſhall be taken, to the end the ſame may be performed with the greateſt eaſe to our louing Subiects, vpon paine of looſing their office, and ſuch further puniſhment, as their contempt ſhall require: Not doubting, but thoſe Iuſtices, which are made priuy to their Commiſſion, will vſe ſuch care, and expedition at all times, for the furtherance of our ſeruice, and for the good and quiet of their countrey, as we ſhall not bee for<g ref="char:EOLhyphen"/>ced by their Remiſnes, to returne the wonted authoritie into the hands of the Purueiors.</p>
+            <p>ANd laſtly, as a further demonſtration of our inward affection to our people, notwithſtanding our ancient Right and Prerogatiue of Purueiance ſo long continued, we haue cauſed ſome of our priuy Councell, (together with our chiefe Officers of the Greenecloth) to fall into preſent conſideration how to prouide (as ſoone as may be) ſome ſuch conuenient number of Carts, wholly to bee maintai<g ref="char:EOLhyphen"/>ned vpon our owne charge, as may ſerue vs whenſoeuer we ſhall make any ſudden remoue, or pri<g ref="char:EOLhyphen"/>uate iourneyes for our exerciſe, and recreation, without being forced to vſe any Commiſſion, or to put the Countries to any charge for furniſhing vs vpon any of thoſe vncertaine occaſions.</p>
+            <closer>
+               <dateline>Giuen vnder our Signe manuell at our palace of Weſtminſter <date>the 23. day of April, in the fourth yeere of our Reigne of Great Britaine, France and Ireland.</date>
+               </dateline>
+God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings moſt excellent Maieſtie. 1606.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
